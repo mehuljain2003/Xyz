@@ -8,11 +8,11 @@
         "pyrogram"
     ],
     "env": {
-        "API_ID":{
+        "API_ID":{24473318
             "description": "Get your telegram API ID from https://my.telegram.org",
             "value":"20114039"
         },
-        "API_HASH":{
+        "API_HASH":{e7dd0576c5ac0ff8f90971d6bb04c8f5
             "description":"Get your telegram API HASH from https://my.telegram.org",
 		    "value":"87297b8f3cc8fc9bbce591ad30da5896"
         },
