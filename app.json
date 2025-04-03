@@ -16,11 +16,11 @@
             "description":"Get your telegram API HASH from https://my.telegram.org",
 		    "value":"87297b8f3cc8fc9bbce591ad30da5896"
         },
-        "BOT_TOKEN":{
+        "BOT_TOKEN":{7426900730:AAHFlaldAa7v6GHf6nyXJpKGi-0cGUtAXew
             "description":"Get from BotFather",
             "value":"7559250442:AAF_HDC3Fb_yG6xHxXkRhhwlMm3LiwT9MkE"
         },
-        "AUTH_USERS":{
+        "AUTH_USERS":{6818594183
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
              "value":"8172163893"
        
